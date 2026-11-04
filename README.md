@@ -37,6 +37,7 @@ Appligyan/
 │   ├── autocad-drawing.jpeg   # AutoCAD course preview
 │   ├── hero-banner.jpeg       # Full-width hero banner
 │   ├── logo.jpeg              # Official institute insignia
+│   ├── logo.svg               # Scalable vector logo
 │   └── robotics-lab.png       # Robotics hardware workbench preview
 ├── app.js                     # Client controller logic & WhatsApp dispatcher
 ├── index.html                 # Main website markup & Schema.org metadata

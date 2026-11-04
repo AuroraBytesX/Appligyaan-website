@@ -178,7 +178,8 @@ button, input, select, textarea {
 .brand-logo-img {
   width: 48px;
   height: 48px;
-  object-fit: cover;
+  object-fit: contain;
+  padding: 2px;
   border-radius: var(--radius-sm);
   border: 1px solid var(--border-subtle);
   background: #ffffff;
